@@ -18,7 +18,6 @@
 #include "testtwodigitnewickmenudialog.h"
 #include "binarynewickvector.h"
 #include "newick.h"
-#include "testtimer.h"
 #include "qtaboutdialog.h"
 #include "trace.h"
 #include "twodigitnewickderivative.h"

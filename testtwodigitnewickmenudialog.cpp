@@ -9,7 +9,6 @@
 #include <boost/lexical_cast.hpp>
 
 #include "twodigitnewick.h"
-#include "testtimer.h"
 #include "newick.h"
 
 
