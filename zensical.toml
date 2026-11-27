@@ -2,7 +2,7 @@
 site_name = "TwoDigitNewick"
 site_url = "https://richelbilderbeek.github.io/TwoDigitNewick/"
 repo_url = "https://github.com/richelbilderbeek/TwoDigitNewick"
-edit_uri = "blob/master/docs/"
+edit_uri = "blob/main/docs/"
 
 nav = [
   { "Start" = "README.md"}
